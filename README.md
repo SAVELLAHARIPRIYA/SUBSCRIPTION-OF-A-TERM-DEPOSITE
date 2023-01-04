@@ -1,4 +1,4 @@
-# USED-CARPRIZE-DATASET-USING-ML
+# SUBSCRIPTION OF TERM DEPOSITE
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). Key highlights:
 --Studied and Analyzed the BANKING dataset to applying ML models and present my insights
 --Performed various Exploratory Data Analysis to understand the data and compare the variables.
